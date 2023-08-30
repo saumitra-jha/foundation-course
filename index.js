@@ -43,7 +43,7 @@ console.log(result); // Outputs: 6
    const birthYear = 2001;
  }
   {
- const favouriteFood = [Biryani, Burritos, sweet  ]    
+ const favouriteFood = [Biryani, Burritos, sweet];    
   }
   {
   const book = {
