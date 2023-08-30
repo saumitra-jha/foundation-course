@@ -1,0 +1,10 @@
+body{
+    background-color: azure;
+    border:5px solid;
+}
+.highlight{
+    color:blueviolet;
+}
+#specialText{
+    color:brown;
+}
